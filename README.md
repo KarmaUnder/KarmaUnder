@@ -3,7 +3,7 @@
 
 - Im currenly working on [My Individual proyect from Henry](https://github.com/KarmaUnder/PI_Food_Henry)
 
-- Im currenly learning **C# for unity and HTMLCanvas**
+- Im currenly learning **C# and HTMLCanvas**
 
 - Contact Mail: **Yoel.larrosa@hotmail.com**
 
