@@ -1,7 +1,7 @@
 <h1 align="center">Hi im Yoel Larrosa</h1>
 <h3 align="center">A Java Script/React developer from Argentina <3</h3>
 
-- Im currenly working on [My Individual proyect from Henry](https://github.com/KarmaUnder/PI_Food_Henry)
+- Im currenly working on [My final proyect from Henry](https://github.com/globalmark/globalMarkets13)
 
 - Im currenly learning **C# and HTMLCanvas**
 
